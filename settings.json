@@ -8,7 +8,7 @@
   "server": {
     "ip": "vincraftstudent.aternos.me:32220",
     "port":32220,
-    "version": "26.1.2",
+    
     "try-creative": false
   },
   "position": {
