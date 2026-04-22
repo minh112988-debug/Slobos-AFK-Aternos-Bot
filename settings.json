@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vincraftstudent.aternos.me:32220",
+    "ip": "vincraftstudent.aternos.me",
     "port":32220,
-    "version": "26.1.2 (19)",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
